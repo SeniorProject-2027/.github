@@ -1,5 +1,17 @@
-## Helloooo We are Team Odyssey ⚔️<br>
-We are a group of three Seniors in Software Engineering at University of Minnesota, Crookston.<Br>
-These repos are related to our two semester long block for the Senior Project course with Professor Alghazo. 
+### Healthcare Management System: Odyssey ⚔️<br>
 
+#### Senior Project: SE4500, Professor Alghazo | University of Minnesota, Crookston<br>
+#### Software Engineers: Molly Gustafson, Natan Berhanu, Alani Oyegade
+
+##### PROBLEM & SOLUTION
+---
+
+##### CORE FEATURES & REQUIREMENTS
+---
+
+##### SYSTEM ARCHITECTURE & OVERVIEW
+---
+
+##### TECH STACK
+---
 
